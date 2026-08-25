@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
