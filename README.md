@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
+| [1492-the-kth-factor-of-n](https://github.com/Gambhiryadav1902/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0054-spiral-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Gambhiryadav1902/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Gambhiryadav1902/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
