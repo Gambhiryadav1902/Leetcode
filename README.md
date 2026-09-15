@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
