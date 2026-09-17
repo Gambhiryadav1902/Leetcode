@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Gambhiryadav1902/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
