@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0189-rotate-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Gambhiryadav1902/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Gambhiryadav1902/Leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
